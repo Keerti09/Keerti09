@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keerti Gulati</h1>
-<h3 align="center">A passionate web developer from India who also loves to do UI/UX animations</h3>
+<h3 align="center">BCA fresher with a strong foundation in computer applications and programming. Motivated to learn, grow and gain practical experience.</h3>
 
-- 🌱 I’m currently learning **new languages and mainly getting better at UI/UX.**
+- 🌱 I’m currently learning **React and making my skills stronger**
 
 - 📫 How to reach me **keertigulati2002@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/2BBGqP](https://pdf.ac/2BBGqP)
+- 📄 Know about my experiences [https://online.publuu.com/540856/1211611](https://online.publuu.com/540856/1211611)
 
 - ⚡ Fun fact **Turns coffee into code and creativity and occasionally transforms bugs into features.**
 
